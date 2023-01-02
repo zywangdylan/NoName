@@ -1,8 +1,8 @@
 .background {
 	background: url(https://nonome-project-media.s3.amazonaws.com/BG-min.png) center center/cover no-repeat;
-	height: calc(100vh - 3.875rem);
+	height: calc(100vh - 3rem);
 	position: absolute;
-	top: 3.875rem;
+	top: 3rem;
 	width: 100%;
 }
 
