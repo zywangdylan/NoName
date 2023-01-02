@@ -38,20 +38,20 @@ The following is the link for our REST API Document:
 
 https://app.swaggerhub.com/apis/WANGXINGJIANOCT_1/Group9_project/1.0.0
 
-## Application Screebshots 📷
+## Application Screenshots 📷
 <figure>
-<img width="50%" alt="register" src="https://user-images.githubusercontent.com/37824460/210268945-f8b125fb-5b7e-4b5f-9d04-daca52f88d8b.png">
-<figcaption align="center">Fig.1 - Registeration Page</figcaption>
+<img width="100%" alt="register" src="https://user-images.githubusercontent.com/37824460/210268945-f8b125fb-5b7e-4b5f-9d04-daca52f88d8b.png">
+<p align="center">Fig.1 - Registeration Page</p>
 </figure>
 
 <figure>
-<img width="50%" alt="home" src="https://user-images.githubusercontent.com/37824460/210269008-a1905c0c-3582-40a1-bd76-b5b52f3b4ae0.png">
-<figcaption align="center">Fig.2 - Home Page</figcaption>
+<img width="100%" alt="home" src="https://user-images.githubusercontent.com/37824460/210269008-a1905c0c-3582-40a1-bd76-b5b52f3b4ae0.png">
+<p align="center">Fig.2 - Home Page</p>
 </figure>
 
 <figure>
-<img width="50%" alt="profile" src="https://user-images.githubusercontent.com/37824460/210269090-e0ae7cf9-fcdd-4e20-840d-b7d7c1629df2.png">
-<figcaption align="center">Fig.3 - Profile Page</figcaption>
+<img width="100%" alt="profile" src="https://user-images.githubusercontent.com/37824460/210269090-e0ae7cf9-fcdd-4e20-840d-b7d7c1629df2.png">
+<p align="center">Fig.3 - Profile Page</p>
 </figure>
 
 ## Contributors
