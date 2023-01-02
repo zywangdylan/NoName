@@ -40,8 +40,18 @@ https://app.swaggerhub.com/apis/WANGXINGJIANOCT_1/Group9_project/1.0.0
 
 ## Application Screebshots 📷
 <figure>
-<img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
-<figcaption align = "center">Fig.1 - 4K Mountains Wallpaper</figcaption>
+<img width="50%" alt="register" src="https://user-images.githubusercontent.com/37824460/210268945-f8b125fb-5b7e-4b5f-9d04-daca52f88d8b.png">
+<figcaption align="center">Fig.1 - Registeration Page</figcaption>
+</figure>
+
+<figure>
+<img width="50%" alt="home" src="https://user-images.githubusercontent.com/37824460/210269008-a1905c0c-3582-40a1-bd76-b5b52f3b4ae0.png">
+<figcaption align="center">Fig.2 - Home Page</figcaption>
+</figure>
+
+<figure>
+<img width="50%" alt="profile" src="https://user-images.githubusercontent.com/37824460/210269090-e0ae7cf9-fcdd-4e20-840d-b7d7c1629df2.png">
+<figcaption align="center">Fig.3 - Profile Page</figcaption>
 </figure>
 
 ## Contributors
